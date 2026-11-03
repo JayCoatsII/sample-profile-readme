@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm Jay Coats II.
-##  I am a freshman Cybersecurity major at the University of Texas at San Antonio. I am a NSBE Junior Executive Board President, as well as a member of the ;
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+##  An aspiring Cybersecurity Professional
+I am a freshman Cybersecurity major at the University of Texas at San Antonio. I am a NSBE Junior Executive Board President, as well as a member of the Association of Computing Machinery.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
